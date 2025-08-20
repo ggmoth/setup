@@ -6,5 +6,5 @@ sudo pacman -S remmina
 sudo pacman -S freerdp
 sudo pacman -S discord
 code --install-extension jackpaget.gruvbox-glass
-cp -r /config/yazi ~/.config/
-cp -r /config/kitty ~/.config/
+cp -r config/yazi ~/.config/
+cp -r config/kitty ~/.config/
